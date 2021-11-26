@@ -1,5 +1,5 @@
 <?php  include VIEWS.'inc/header.php'; ?>
-
+<h1>Hello world</h1>
 <div class="row justify-content-between pt-4">
     <?php foreach ($books as $book ):   ?>
     <div class="col-md-3 text-center">
